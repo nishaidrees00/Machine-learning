@@ -1,7 +1,9 @@
 # Machine-learning
 In this project we detect fraudulent trasantion using deep learning models i.e.
+
 1. Artificial Neural Network
 2. Convolutional Neural Network
+
 We use Synthetic Financial dataset that is available on Kaggle. 
 The link is given below.
 https://www.kaggle.com/ealaxi/paysim1
