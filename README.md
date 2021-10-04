@@ -1,5 +1,5 @@
 # Machine-learning
-In this project we detect fraudulent trasantion using deep learning models i.e.
+In this project we detect fraudulent transantion using deep learning models i.e.
 
 1. Artificial Neural Network
 2. Convolutional Neural Network
